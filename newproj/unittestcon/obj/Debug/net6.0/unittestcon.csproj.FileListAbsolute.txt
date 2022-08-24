@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\bin\Debug\net6.0\unittestcon.exe
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\bin\Debug\net6.0\unittestcon.deps.json
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\bin\Debug\net6.0\unittestcon.runtimeconfig.json
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\bin\Debug\net6.0\unittestcon.dll
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\bin\Debug\net6.0\unittestcon.pdb
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\unittestcon.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\unittestcon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\unittestcon.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\unittestcon.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\unittestcon.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\unittestcon.dll
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\refint\unittestcon.dll
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\unittestcon.pdb
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\unittestcon.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\Batch1-2022\bharathjenkins\newproj\unittestcon\obj\Debug\net6.0\ref\unittestcon.dll
